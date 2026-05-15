@@ -1,0 +1,23 @@
+# Settings
+.claude/settings.local.json
+.claude/commands/
+.claude/hooks/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Cache
+__pycache__/
+.cache/
+node_modules/
