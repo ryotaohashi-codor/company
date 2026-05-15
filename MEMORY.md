@@ -22,6 +22,8 @@
 - [CLAUDE.md](CLAUDE.md) — ルーティング判定、部門一覧
 - [guidelines/communication-standards.md](guidelines/communication-standards.md) — 全部門が参照する基本ルール
 - [templates/](templates/) — 各エージェントが使用するテンプレート
+- [projects/courses/](projects/courses/) — 進行中の講座プロジェクト
+- [projects/reference/subtitle-library/](projects/reference/subtitle-library/) — 過去講座の字幕ライブラリ
 
 ## 今後の拡張予定
 
